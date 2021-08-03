@@ -1,5 +1,5 @@
 {
-    "name": "payvision/payvision-sdk-php",
+    "name": "media-code/payvision-sdk-php",
     "description": "Payvision PHP SDK",
     "type": "library",
     "version": "8.2.0",
